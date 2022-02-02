@@ -1,1 +1,5 @@
-Ainda vou aprender essa lingua
+Meu nome?
+Guylyan
+
+Função?
+Jogador de minecraft
