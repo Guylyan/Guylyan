@@ -1,1 +1,1 @@
-pythohista
+pythonista
