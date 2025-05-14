@@ -11,7 +11,8 @@ Sou **Analista de Dados** com foco em **Power BI** e **SQL**, com passagens por 
 * 🏢 **Experiências:**
 
   * **Pernambucanas** – Desenvolvimento de dashboards de performance financeira e de vendas
-  * **Parasin Consulting** – Soluções de BI sob medida para pequenas e médias empresas
+  * **Rodoparaná** – Liderança na área de desenvolvimento de dashboards de todos os segmentos da empresa
+  * **Parasin Consulting** – Soluções de BI sob medida para todas as empresas
 * 🛠️ **Ferramentas & Tecnologias:**
   `Power BI` • `Power Query` • `SQL Server` • `MySQL` • `PostgreSQL` • `Python` • `Azure DevOps`
 
