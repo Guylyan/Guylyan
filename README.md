@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guylyan%20Parasin-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/guylyan/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Modelagem%20%7C%20Relat%C3%B3rios-F2C811?style=flat\&logo=PowerBI)](#)
 
-Sou **Analista de Dados** com foco em **Power BI** e **SQL**, com passagens por grandes empresas como **Pernambucanas** e agora iniciando minha própria consultoria, a **Parasin Consulting**. Transformo dados em insights acionáveis que impulsionam decisões estratégicas.
+Sou **Analista de Dados** com foco em **Power BI** e **SQL**, com passagens por grandes empresas como **Pernambucanas** e **Rodoparaná** e agora iniciando minha própria consultoria, a **Parasin Consulting**. Transformo dados em insights acionáveis que impulsionam decisões estratégicas.
 
 ## 🚀 Sobre mim
 
